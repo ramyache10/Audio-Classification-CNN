@@ -58,13 +58,9 @@ Welcome to this project on **Audio Classification**, where we explore the power 
 
 ---
 
-## 🖼️ Sample Visualizations
 
-> Spectrogram visualization for training audio samples
 
-![Spectrogram Example](https://upload.wikimedia.org/wikipedia/commons/6/6c/Mel_spectrogram_example.png)
 
----
 
 ## 🧪 How to Run
 
@@ -85,7 +81,7 @@ Welcome to this project on **Audio Classification**, where we explore the power 
    ```
 
 
-
+---
 ## 🚀 Future Work
 
 - Add noise filtering and audio augmentation
